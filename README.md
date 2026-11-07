@@ -32,7 +32,7 @@ Hoje atuo como **gestor de um coworking e de um estúdio de gravação**, onde c
 **Linguagens e desenvolvimento**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,ts,html,css,react,vite,tailwind,nodejs&theme=dark" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,nodejs&theme=dark" alt="Linguagens"/>
 </p>
 
 **Cloud, dados e ferramentas**
@@ -41,11 +41,9 @@ Hoje atuo como **gestor de um coworking e de um estúdio de gravação**, onde c
   <img src="https://skillicons.dev/icons?i=aws,firebase,postgres,linux,git,github,vscode&theme=dark" alt="Cloud e ferramentas"/>
 </p>
 
-**IA e Ciência de Dados**
+**Inteligência Artificial e No-Code**
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Engenharia_de_Prompt-555555?style=flat-square" alt="Engenharia de Prompt"/>
