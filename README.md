@@ -67,7 +67,7 @@ Hoje atuo como **gestor de um coworking e de um estúdio de gravação**, onde c
 
 ## 💼 Competências profissionais
 
-| | |
+| Competência | Na prática |
 |---|---|
 | 🗣️ **Comunicação** | Atendimento a clientes, negociação e apresentação de soluções |
 | 👥 **Liderança** | Gestão de equipe e organização da rotina operacional |
@@ -84,15 +84,6 @@ Hoje atuo como **gestor de um coworking e de um estúdio de gravação**, onde c
 | [**QR Forge**](https://github.com/DaviGuima159/Qr-Forge) | Gerador de QR Codes com pré-visualização em tempo real, personalização avançada, login e cofre de QR Codes salvos na nuvem | React · TypeScript · Firebase · Tailwind |
 | [**Caixa Eletrônico em C**](https://github.com/DaviGuima159/caixa-eletronico-c) | Simulador de saque com validação de entrada e cálculo da menor quantidade de cédulas | C · Portugol |
 | [**Portfólio Acadêmico**](https://github.com/DaviGuima159/portfolio-davi-guimaraes-da-silva) | Projetos da faculdade com IA, engenharia de prompt, Machine Learning e low-code | IA · Python · Bubble.io |
-
----
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviGuima159&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGuima159&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165"/>
-</p>
 
 ---
 
